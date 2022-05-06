@@ -1,4 +1,4 @@
-package br.unicamp.ic.inf335.beans;
+package br.unicamp.ic.inf335.app.inf335_atividade4;
 
 public class ProdutoBean implements java.io.Serializable, Comparable<ProdutoBean>{
 	/**

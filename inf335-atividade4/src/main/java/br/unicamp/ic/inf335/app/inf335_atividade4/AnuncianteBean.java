@@ -1,7 +1,7 @@
 /**
  * 
  */
-package br.unicamp.ic.inf335.beans;
+package br.unicamp.ic.inf335.app.inf335_atividade4;
 
 import java.util.ArrayList;
 

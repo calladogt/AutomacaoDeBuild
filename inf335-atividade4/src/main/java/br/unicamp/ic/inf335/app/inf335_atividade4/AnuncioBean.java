@@ -1,4 +1,4 @@
-package br.unicamp.ic.inf335.beans;
+package br.unicamp.ic.inf335.app.inf335_atividade4;
 
 import java.net.URL;
 import java.util.ArrayList;
@@ -19,7 +19,7 @@ public class AnuncioBean implements java.io.Serializable {
 	 */
 	private ArrayList<URL> fotosUrl;
 	/**
-	 * Fração de desconto sendo 0 (0%) e 1 (100%)
+	 * Fraï¿½ï¿½o de desconto sendo 0 (0%) e 1 (100%)
 	 */
 	private Double desconto;
 	
@@ -77,7 +77,7 @@ public class AnuncioBean implements java.io.Serializable {
 
 
     /**
-     * Contrutor com parâmetros
+     * Contrutor com parï¿½metros
      * @param produto
      * @param fotosUrl
      * @param desconto
